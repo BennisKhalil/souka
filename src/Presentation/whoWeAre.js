@@ -198,7 +198,7 @@ export default class whoWeAre extends Component {
                 }}
                 onMouseLeave={() => this.setState({ hoverJoinUs: false })}
               >
-                Rejoingnez nous
+                Rejoignez nous
               </div>
             )}
           </Col>
